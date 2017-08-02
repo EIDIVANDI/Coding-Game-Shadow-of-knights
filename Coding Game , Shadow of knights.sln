@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding Game , Shadow of knights", "Coding Game , Shadow of knights\Coding Game , Shadow of knights.csproj", "{75FD40D6-3D1B-4045-A50B-03C4D87E4768}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding Game, Shadow of knights 1", "Coding Game, Shadow of knights 1\Coding Game, Shadow of knights 1.csproj", "{BE4987B3-71D1-4C93-A27F-3F55C42903A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{75FD40D6-3D1B-4045-A50B-03C4D87E4768}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75FD40D6-3D1B-4045-A50B-03C4D87E4768}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75FD40D6-3D1B-4045-A50B-03C4D87E4768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE4987B3-71D1-4C93-A27F-3F55C42903A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4987B3-71D1-4C93-A27F-3F55C42903A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4987B3-71D1-4C93-A27F-3F55C42903A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4987B3-71D1-4C93-A27F-3F55C42903A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
